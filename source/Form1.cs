@@ -11,15 +11,6 @@ using WMPLib;
 //v0.1: First version of application
 //v0.2: Added Advanced mode
 //v0.3: Reworked snippet position placing for advacned mode
-        //added response playback before success
-
-
-//what to do?
-//add validation for advanced mode
-//add button click selector for word position
-    //currentl advanced mode activates all elements and distributes snippets randomly to buttons
-    //no playback, no validation. no position read-in
-        //dropdown or clicking counter?
 
 namespace NumeriqueApp_v3
 {
@@ -3317,4 +3308,5 @@ namespace NumeriqueApp_v3
             }
     }
 }
+
 
